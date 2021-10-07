@@ -1,0 +1,20 @@
+{
+  "name": "stenwreth",
+  "version": "1.0.0",
+  "description": "frontend app for application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstenwreth/mstenwreth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstenwreth/mstenwreth/issues"
+  },
+  "homepage": "https://github.com/mstenwreth/mstenwreth#readme"
+}
